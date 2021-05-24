@@ -2,8 +2,6 @@
 
 from flask import Flask, render_template
 from game import Game
-import matplotlib.pyplot as plt
-import time
 
 app = Flask(__name__)
 
