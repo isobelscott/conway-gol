@@ -1,0 +1,2 @@
+export FLASK_APP=conway
+export FLASK_ENV=development
